@@ -22,7 +22,6 @@ const handleNav=()=>setNav(!nav)
         <li>Travel</li>
         <li>Book</li>
         <li>Views</li>
-        <li>Login</li>
         <li><form className='form'><input type="text" placeholder='enter destinations' />
         <button><AiOutlineSearch className='sarch-icon' /></button></form></li>
       </ul>
