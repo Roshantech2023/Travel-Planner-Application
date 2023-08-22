@@ -1,3 +1,4 @@
+/*Navbar stylles*/
 .navbar{
     margin-top: 2rem;
     width: 100%;
@@ -55,7 +56,9 @@ li{
     font-size: 1rem;
     font-family: 'popins',sans-serif;
 }
+/*Responsive design for Navbar*/
 @media screen and (max-width:940px){
+    /*Menu bar for Mobile view*/
     .mobile-menu{
         display: flex;
         flex-direction: column;
